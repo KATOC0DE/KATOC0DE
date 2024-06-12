@@ -17,11 +17,7 @@
     I'm New In Python
     I'm a Self-taught programmer
     I never knew that I was capable of coding, 🤣
-    I enjoy coding...alot!  I just find myself 😅
-    I made this Python project just for fun. 
-    It allows you to Learn and focus on What is necessary
-    What are the more important things for beginning to learn Python 
-    Becoming a Master in Python and a Data Scientist 😉
+    I enjoy coding...alot!  I just find myself a new hobby😅
     
     𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 : 𝐖𝐞 𝐬𝐩𝐞𝐧𝐝 𝐚 𝐲𝐞𝐚𝐫 𝐨𝐧 𝐭𝐡𝐞 𝐭𝐨𝐢𝐥𝐞𝐭 𝐢𝐧 𝐨𝐮𝐫 𝐥𝐢𝐟𝐞𝐭𝐢𝐦𝐞. 
     
